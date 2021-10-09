@@ -1,6 +1,6 @@
 #!/bin/bash
 hostnameofPC=$(hostname)
-echo "present hostname is $hostnameofPC"
+echo "Current system hostname is $hostnameofPC"
 
 read -p "Insert your student number: " studentnumber
 
